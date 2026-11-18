@@ -1,0 +1,16 @@
+{
+  "cond": "startLight",
+  "del": false,
+  "done": true,
+  "exclude": false,
+  "jumps": [
+    [
+      20360,
+      20510
+    ]
+  ],
+  "note": "",
+  "notjumps": [],
+  "stem": "SS_startLight_Exp32_8hrs_lane1",
+  "updatedAt": "2026-10-13T20:57:17.882Z"
+}

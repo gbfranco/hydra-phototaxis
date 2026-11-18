@@ -1,0 +1,16 @@
+{
+  "cond": "noLight",
+  "del": false,
+  "done": true,
+  "exclude": false,
+  "jumps": [
+    [
+      19455,
+      19579
+    ]
+  ],
+  "note": "",
+  "notjumps": [],
+  "stem": "Exp68_8hrs_lane4",
+  "updatedAt": "2026-09-22T23:20:09.140Z"
+}

@@ -1,0 +1,40 @@
+{
+  "cond": "startLight",
+  "del": false,
+  "done": true,
+  "exclude": false,
+  "jumps": [
+    [
+      107,
+      128
+    ],
+    [
+      313,
+      333
+    ],
+    [
+      1004,
+      1031
+    ],
+    [
+      3725,
+      3774
+    ],
+    [
+      7983,
+      8003
+    ],
+    [
+      8648,
+      8698
+    ],
+    [
+      10088,
+      10129
+    ]
+  ],
+  "note": "",
+  "notjumps": [],
+  "stem": "SS_startLight_Exp48_8hrs_lane1",
+  "updatedAt": "2026-10-13T21:00:32.648Z"
+}
