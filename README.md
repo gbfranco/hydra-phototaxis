@@ -1,7 +1,6 @@
 # Hydra phototaxis: code and hand labels
 
-Analysis code for _Hydra_ moving along a 35 mm lane, with or without a light at
-one end, plus the hand labels the behavior classifier was built from. The
+Analysis code for _Hydra_ moving along a 35 mm lane, BCRW, and the behavior classifier. The
 tracking data itself comes from the Zenodo archive (see **Getting the data**).
 
 ## Structure
